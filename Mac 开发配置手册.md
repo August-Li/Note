@@ -1,6 +1,6 @@
 # Mac 开发配置手册
 
-<!--[TOC]-->
+[TOC]
 
 ## System Preferences
 First thing you need to do, on any OS actually, is update the system! For that: **Apple Icon > Software Update**. Also upgrade your OS incase you want to work on the latest OS. Yosemite is a free upgrade so please check that.  
