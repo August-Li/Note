@@ -1,15 +1,13 @@
 # Mac 开发配置手册
 
-[TOC]
-
 ## System Preferences
-First thing you need to do, on any OS actually, is update the system! For that: **Apple Icon > Software Update**. Also upgrade your OS incase you want to work on the latest OS. Yosemite is a free upgrade so please check that.  
+First thing you need to do, on any OS actually, is update the system! For that: **Apple Icon > Software Update**. Also upgrade your OS incase you want to work on the latest OS. Yosemite is a free upgrade so please check that.
 
 If this is a new computer, there are a couple tweaks you would like to make to the System Preferences. Feel free to follow these, or to ignore them, depending on your personal preferences.
 
 ### Users and Groups
 - Login Options-> Change fast switching user menu to Icon
-- Set up Password, Apple id, Picture , etc.  
+- Set up Password, Apple id, Picture , etc.
 
 ### Trackpad
 - Point & Click
@@ -63,7 +61,7 @@ $ brew install homebrew/fuse/ntfs-3g
 
 #### If you are on OSX 10.11 (El Capitan), temporary disable System Integrity Protection.
 - **reboot** and hold CMD+R to get in recovery mode
-- Open the terminal and type	 
+- Open the terminal and type
 
 ```
 $ csrutil disable
