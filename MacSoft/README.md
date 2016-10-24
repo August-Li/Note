@@ -41,3 +41,24 @@
     - SidebarEnhancements
     - Themes （主题）
     - Color Schemes (配色方案)
+3. [Sublime Text 3 Shortcuts Cheatsheet](https://github.com/August7752/Note/blob/master/MacSoft/Sublime%20Text%203%20%E5%BF%AB%E6%8D%B7%E9%94%AE.md)
+	- Key to the Keys
+	- Shortcuts Cheatsheet
+		- General(一般)
+		- Language(编程语言)
+		- Editing(编辑)
+		- Transform(转换)
+		- Find & Replace(查找替换)
+		- Navigation(打开)
+		- Code Folding(代码)
+		- Bookmarks(书签)
+		- Vintage Mode(原始模式)
+	- Windows
+		- 常用
+		- 打开/前往
+		- 编辑
+		- 拆分窗口/标签页-这个很酷
+		- 书签
+	- 延伸阅读（Further Reading）
+		- 书籍（Books）
+		- 链接（Links）
